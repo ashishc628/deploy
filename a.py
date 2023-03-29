@@ -1,6 +1,6 @@
-!pip install pyrebase
-!pip install streamlit
-!pip install pycryptodome==3.17
+pip install pyrebase
+pip install streamlit
+pip install pycryptodome==3.17
 # Modules
 import pyrebase
 import streamlit as st
