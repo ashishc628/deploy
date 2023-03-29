@@ -1,7 +1,4 @@
-import subprocess
-
-# Install required packages listed in requirements.txt
-subprocess.check_call(["pip", "install", "-r", "requirements.txt"])
+pip install -r requirements.txt
 
 # Modules
 import pyrebase
